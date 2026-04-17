@@ -42,3 +42,5 @@ Produis un rapport complet :
 4. Ajoute une colonne `prime` : 10% du salaire si `annees_exp` > 5, sinon 5%
 5. Affiche les employés éligibles à une promotion (annees_exp > 7 ET salaire < 4000)
 6. Exporte le DataFrame final en CSV et en Excel
+
+Le but de lab est principalement d'aller à la découverte de l'utilisation de la lib pandas.
